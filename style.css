@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.navbar{
+    font-family: 'Source Serif Pro', serif;
+}
+
+.mainpic{
+    text-align: center;
+}
+
+.welcome{
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.gymowner{
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 33px;
+    font-family: 'Source Serif Pro', serif;
+}
+.hr{
+    color: black;
+}
+
+#ownerpic{
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+
+.about{
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-family: 'Sansita Swashed', cursive;
+}
+.equipments{
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.testimonialhead{
+    font-family: 'Sansita Swashed', cursive;
+}
+.testimonial{
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-family: 'Source Serif Pro', serif;
+
+}
+
+.tesname{
+    color: gold;
+    font-family: 'Cookie', cursive;
+}
+
+
+.location{
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+#locationpara{
+    font-family: 'Source Serif Pro', serif;   
+}
+
+.time{
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+
+.contact{
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.footer{
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+}
